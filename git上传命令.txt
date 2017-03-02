@@ -1,0 +1,10 @@
+
+git remote add origin https://github.com/zhichaoGuo/sy.git
+
+git pull origin master
+
+git add .
+
+git commit -m ""
+
+git push -u origin master
